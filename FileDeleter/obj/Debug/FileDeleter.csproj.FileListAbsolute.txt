@@ -1,8 +1,0 @@
-Q:\Tharik\FileDeleter\FileDeleter\bin\Debug\FileDeleter.exe.config
-Q:\Tharik\FileDeleter\FileDeleter\bin\Debug\FileDeleter.exe
-Q:\Tharik\FileDeleter\FileDeleter\bin\Debug\FileDeleter.pdb
-Q:\Tharik\FileDeleter\FileDeleter\obj\Debug\FileDeleter.Form1.resources
-Q:\Tharik\FileDeleter\FileDeleter\obj\Debug\FileDeleter.Properties.Resources.resources
-Q:\Tharik\FileDeleter\FileDeleter\obj\Debug\FileDeleter.csproj.GenerateResource.Cache
-Q:\Tharik\FileDeleter\FileDeleter\obj\Debug\FileDeleter.exe
-Q:\Tharik\FileDeleter\FileDeleter\obj\Debug\FileDeleter.pdb
